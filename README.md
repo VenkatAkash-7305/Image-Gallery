@@ -1,36 +1,49 @@
-📸 Image Gallery
-A responsive Image Gallery website built using HTML5 and CSS3.
-This project displays multiple nature images arranged in a clean and structured layout using external CSS styling.
-📖 Project Overview
-The Image Gallery showcases a collection of images aligned in a grid-based structure.
-The layout is designed to maintain proper spacing, alignment, and responsiveness across different screen sizes.
+Image Gallery (HTML & CSS)
+A simple front-end Image Gallery built using pure HTML and CSS.
+🚀 Project Overview
+This project showcases a collection of nature images arranged in a clean and structured layout.
+The gallery includes:
+Header section
+Image grid layout
+Organized image structure
+Responsive alignment using CSS
+The layout is designed using Flexbox to maintain proper spacing and alignment across different screen sizes.
 🛠️ Technologies Used
 HTML5
 CSS3
-✨ Features
+Flexbox
+📁 Project Structure
+Image-Gallery/
+│
+├── gallery.html
+├── gallery.css
+├── nature1.jpeg
+├── nature2.jpeg
+├── nature3.jpeg
+├── nature4.jpeg
+├── nature5.jpeg
+├── nature6.jpeg
+├── nature7.jpeg
+├── nature8.jpeg
+└── README.md
+🎯 Features
 Clean and modern gallery layout
-Responsive design structure
+Responsive image grid
+Proper spacing and alignment
 External CSS styling
-Proper image alignment and spacing
-Simple and organized file structure
-📂 Project Files
-gallery.html – Main webpage
-gallery.css – Styling file
-Nature images (.jpeg files)
-README.md
-▶️ How to Run the Project
-Download or clone the repository.
-Open the project folder.
-Open gallery.html in your browser.
-🎯 Learning Purpose
-This project was created to practice:
+Organized file structure
+📸 Screenshot
+(Add your project screenshot here)
+💡 What I Learned
 Structuring web pages using HTML
-Styling using external CSS
+Linking external CSS files
 Working with images in web design
-Layout alignment techniques
-Basic responsive design concepts
-🚀 Future Enhancements
+Using Flexbox for layout alignment
+Creating clean and organized layouts
+📌 Future Improvements
 Add hover animations
-Add lightbox preview effect
-Improve mobile responsiveness
-If you found this project helpful, consider giving it a star on GitHub.
+Add lightbox image preview
+Improve full mobile responsiveness
+Enhance overall UI styling
+👨‍💻 Author
+Created by [Venkat Akash A]
